@@ -1,0 +1,24 @@
+{
+	"login": "admin", "password": "admin", "status": "administrator"
+}
+{
+	"login": "manager", "password": "manager", "status": "manager"
+}
+{
+	"login": "user","password": "123", "status": "user"
+}
+{
+	"login": "dima", "password": "dm123", "status": "user"
+}
+{
+	"login": "semen", "password": "seemen", "status": "user"
+}
+{
+	"login": "mark", "password": "echpochmak", "status": "user"
+}
+{
+	"login": "vova", "password": "vovchen", "status": "user"
+}
+{
+	"login": "strange" "password": "magic" "status": "user"
+}
