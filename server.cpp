@@ -211,6 +211,7 @@ void Server::slotServerRead()
         }
         else if(temp =="logBase" && clientSocket->objectName()=="admin")
         {
+
             sqlbase obj;
             QString rezult = obj.baseLogPass();
             QByteArray shifr = crypto.encryptToByteArray(rezult);

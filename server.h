@@ -7,6 +7,7 @@
 #include "database.h"
 #include"sqlbase.h"
 #include "crypto.h"
+
 class Server : public QObject
 {
     Q_OBJECT
